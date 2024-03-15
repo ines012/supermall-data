@@ -1,5 +1,4 @@
-{
-"SampleImages": [
+ [
     {   "id" : 1,
         "image" : "https://media.istockphoto.com/id/1457122831/photo/portrait-of-hip-hop-group-on-staircase-outdoors.jpg?s=2048x2048&w=is&k=20&c=nQxQv1671GBNdLyojP9p018U_DKdxvDwhvVOBvDaW1Q="}
     ,
@@ -30,4 +29,3 @@
     "image" : "https://media.istockphoto.com/id/963817576/photo/good-friends-returning-from-shopping.jpg?s=612x612&w=is&k=20&c=3HFhcCR1Q9UpqOONe73nkqytxDesQzgSoFnh45cu93s="  }
 
 ]
-}
